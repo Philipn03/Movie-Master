@@ -16,7 +16,7 @@ Or click on a suggested popular / top rated movie!
 
 
 # How to Run
-- Type in terminal npm run dev
-- Copy and paste the localhost to search browser
+- Run in terminal "npm run dev"
+- Copy and paste the localhost to search browser Ex: "localhost:5173"
 - Explore movies!
 
